@@ -17,7 +17,6 @@ h1 {
   place-items: top;
   float: right;
   padding-right: 10px;
-  padding-top: 0.5px;
   font-size: small;
 
 }
@@ -26,6 +25,7 @@ h2 {
   place-items: top;
   float: left;
   font-size: small;
+  padding-left: 10px;
 
 }
 h3 {
@@ -45,9 +45,9 @@ h3 {
 .start {
   text-align: center;
   position: fixed;
-  top: 45%;
-  bottom: 45%;
-  left: 45%;
-  right: 45%;
+  top: 38%;
+  bottom: 59%;
+  left: 47%;
+  right: 47%;
   
 }
